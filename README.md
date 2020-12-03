@@ -3,3 +3,5 @@
 Baixe todos os arquivos do repositório.
 
 No arquivo docker-compose.yml, altere os serviços api_2 e api_2 informando a imagem da sua api.
+
+Execute docker-compose up -d para levantar todos os serviços.
